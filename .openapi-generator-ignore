@@ -1,0 +1,7 @@
+README.md
+openapi-generator-cli.log
+.openapi-generator
+pom.xml
+gradle*
+!src/main/java/com/task/xlsxmax/api/**
+!src/main/java/com/task/xlsxmax/api/model/**
