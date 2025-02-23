@@ -1,4 +1,4 @@
 Запуск проекта:
 
-mvn clean install
+mvn clean install                     
 java -jar target/xlsxmax-1.0.jar
